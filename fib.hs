@@ -1,3 +1,4 @@
+-- From Bartozs Milewski
 import Prelude
 type Algebra f a = f a -> a
  
